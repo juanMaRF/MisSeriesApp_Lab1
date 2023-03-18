@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="form">Register form</string>
+    <string name="app_name">Mis Series App</string>
+    <string name="name">Name</string>
+    <string name="email">Email addres</string>
+    <string name="required_field">Required</string>
+    <string name="Password">Password</string>
+    <string name="repPassword">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="info">Information</string>
+    <string name="male">Male</string>
+    <string name="femenino">Female</string>
+    <string name="comedy">Comedy</string>
+    <string name="action">Action</string>
+    <string name="suspence">Suspence</string>
+    <string name="drama">Drama</string>
+    <string name="genre">Favorites Genres</string>
+    <string name="date">Date of birth</string>
+    <string name="nacimiento">Place of birth</string>
+</resources>
